@@ -1,4 +1,4 @@
-#E Commerse Website
+# E Commerse Website
 
 My Name is Devesh Sharma, This is my e-commerce website.
 
@@ -8,7 +8,7 @@ The website allows customers to add items to the cart, manage quantities, and pr
 It is designed to give a smooth and reliable online shopping experience with responsive design for both desktop and mobile users.
 
 
-##Project Structure
+## Project Structure
 
 .
 ├── .env                  # Environment variables (e.g., API keys, base URLs)
@@ -60,10 +60,10 @@ It is designed to give a smooth and reliable online shopping experience with res
 
 
     
-##Features
--Light/dark mode toggle
--Search Bar for Product find
--Categories of products [Like - Trending Products, Special Offer & Food 5 min Delivery]
--Shopping cart & manage quantities
--Secure checkout system
--Cross platform - Design for both desktop and mobile users.
+## Features
+- Light/dark mode toggle
+- Search Bar for Product find
+- Categories of products [Like - Trending Products, Special Offer & Food 5 min Delivery]
+- Shopping cart & manage quantities
+- Secure checkout system
+- Cross platform - Design for both desktop and mobile users.
