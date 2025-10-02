@@ -60,3 +60,22 @@ It is designed to give a smooth and reliable online shopping experience with res
 - Shopping cart & manage quantities
 - Secure checkout system
 - Cross platform - Design for both desktop and mobile users.
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install
+  npm run dev
+```
+    
+## Tech Stack
+
+**FrontEnd:** HTML, CSS, JavaScript
+
+**BackEnd:** Express.js (Node.js).
+
+**DataBase:** For storing products, users, and orders.
+
