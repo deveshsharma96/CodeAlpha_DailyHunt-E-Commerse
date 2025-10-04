@@ -3,7 +3,7 @@
 
 My Name is Devesh Sharma, This is my e-commerce website. 
 
-Online shopping platform (Name-DailyHunt) where users can browse, and purchase products easily. It provides a user-friendly interface with categories of products (Like - Trending Products, Special Offer & Food 5 min Delivery) a shopping cart and a secure checkout system. 
+A full-stack online shopping platform (Name-DailyHunt) where users can browse, and purchase products easily. It provides a user-friendly interface with categories of products (Like - Trending Products, Special Offer & Food 5 min Delivery) a shopping cart and a secure checkout system. 
 
 The website allows customers to add items to the cart, manage quantities, and proceed with orders. 
 
