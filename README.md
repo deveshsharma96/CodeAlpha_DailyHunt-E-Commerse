@@ -62,19 +62,6 @@ It is designed to give a smooth and reliable online shopping experience with res
 - Cross platform - Design for both desktop and mobile users.
 
 
-
-## Installation
-
-Install my-project with npm
-
-- Download Project ZIP file of project
-- Extract file
-- Open file in Code editor 
-- Go to terminal 
-```bash
-  npm install
-  npm run dev
-```
     
 ## Tech Stack
 
